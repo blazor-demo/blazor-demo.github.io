@@ -28,5 +28,12 @@
     "TemperatureC": -2,
     "Summary": "Chilly",
     "TemperatureF": 29
-  }
+  },
+   {
+    "DateFormatted": "11/05/2017",
+    "TemperatureC": -1,
+    "Summary": "Chilly",
+    "TemperatureF": 26
+}
+   
 ]
